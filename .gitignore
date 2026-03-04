@@ -10,4 +10,4 @@
 
 # Logs
 *.log
-
+.history/
