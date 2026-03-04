@@ -145,6 +145,9 @@ source ~/.zshrc
 - [完整配置指南](./proxy-setup-guide.md) - 详细的配置说明和故障排除
 - [快速参考](./proxy-quick-reference.md) - 常用命令速查
 
+参考laprf：[服务器使用本地代理_laprf.pdf](./服务器使用本地代理_laprf.pdf)
+
+
 ## ⚠️ 注意事项
 
 1. **端口冲突**：确保代理端口未被占用
@@ -189,6 +192,8 @@ source ~/.zshrc
 bash ~/sync_proxy/sync-proxy-config.sh
 ```
 
+
+
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
@@ -208,5 +213,4 @@ bash ~/sync_proxy/sync-proxy-config.sh
 - Bash / Zsh
 - VSCode / Cursor (可选)
 
-**最后更新**: 2025-11-13
-
+**最后更新**: 2025-03-03
